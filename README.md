@@ -7,7 +7,7 @@ check [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 ### Favorite repository
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Obl1Que&repo=QFARM&theme=dark)](https://github.com/Obl1Que/QFARM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nirvanaflame&repo=exercism&theme=tokyonight)](https://github.com/nirvanaflame/exercism)
 
 ### My stack
 
